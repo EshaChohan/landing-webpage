@@ -1,0 +1,187 @@
+ul {
+    border-style: solid;
+    border-width: 5px;
+    border-color: maroon;
+    text-align: center;
+    padding: 10px;
+    margin: 35px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    word-spacing: 20px;
+    letter-spacing: 3px;
+    font-size: 25px;
+    font-style: italic;
+}
+
+li {
+    font-weight: bold;
+    display: inline;
+    margin: 20px;
+    padding: 8px;
+
+}
+
+li:hover {
+    padding: 12px;
+    background-color: maroon;
+    color: white;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color: maroon;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-style: italic;
+    word-spacing: 5px;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-decoration: underline maroon;
+}
+
+p {
+    font-size: 30px;
+    font-style: italic;
+    word-spacing: 5px;
+    line-height: 40px;
+    color: maroon;
+    margin-left: 60px;
+    margin-right: 40px;
+}
+
+#home-img {
+    margin-left: 150px;
+}
+
+h2 {
+    font-size: 30px;
+    font-style: italic;
+    word-spacing: 5px;
+    margin-left: 10px;
+    margin-top: 50px;
+    text-decoration: underline maroon;
+}
+
+.kurta-pajama {
+    margin-left: 50px;
+}
+
+.kurta-pajama>img {
+    width: 400px;
+    height: 700px;
+}
+
+.jeans-shirt {
+    margin-left: 50px;
+}
+
+.jeans-shirt>img {
+    width: 400px;
+    height: 700px;
+}
+
+.casual-wear {
+    margin-left: 50px;
+}
+
+.casual-wear>img {
+    width: 400px;
+    height: 700px;
+}
+
+.fancy-wear {
+    margin-left: 50px;
+}
+
+.fancy-wear>img {
+    width: 400px;
+    height: 700px;
+}
+
+.short-tshirt {
+    margin-left: 50px;
+}
+
+.short-tshirt>img {
+    width: 400px;
+    height: 700px;
+}
+
+.girls-wear {
+    margin-left: 50px;
+}
+
+.girls-wear>img {
+    width: 400px;
+    height: 700px;
+}
+
+.boys-wear {
+    margin-left: 50px;
+}
+
+.boys-wear>img {
+    width: 400px;
+    height: 700px;
+}
+
+.contact {
+    color: black;
+    margin-bottom: 50px;
+}
+
+b:hover {
+    background-color: maroon;
+    color: white;
+}
+
+img {
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+}
+
+.sign-up {
+    color: black;
+    line-height: 50px;
+}
+
+input {
+    text-align: center;
+    height: 25px;
+    width: 230px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: maroon;
+    font-size: 18px;
+}
+
+.button {
+    height: 60px;
+    width: 120px;
+    background-color: white;
+    font-size: 25px;
+    color: black;
+    border-style: solid;
+    border-color: maroon;
+    border-radius: 15px;
+    margin-left: 600px;
+    margin-bottom: 50px;
+}
+
+button:hover {
+    background-color: maroon;
+    color: white;
+    border-style: solid;
+    border-color: black;
+}
